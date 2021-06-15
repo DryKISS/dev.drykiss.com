@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: dev.drykiss.com/sitemap.xml
+Disallow:
